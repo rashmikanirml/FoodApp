@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FoodApp</string>
+    <string name="next">Next</string>
+    <string name="be_together">Be Together</string>
+    <string name="healthy_eating">
+    Healthy eating means eating a variety of foods that give you the nutrients you
+    need to maintain your health, feel good, and have energy.
+</string>
+
+    <string name="choose_tasty_dish">Choose A Tasty Dish</string>
+    <string name="order_favorite">Order anything you want from your favorite restaurant.</string>
+    <string name="get_started">Get Started</string>
+    <string name="easy_payment">Easy Payment</string>
+    <string name="payment_easy">
+    Payment made easy through debit card, credit card &amp; more ways to pay for your food.
+</string>
+    <string name="home">Home</string>
+
+
+</resources>
